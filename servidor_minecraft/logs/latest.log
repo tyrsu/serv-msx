@@ -155,3 +155,5 @@
 [29Nov2024 20:30:38.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [josean34: Set own game mode to Creative Mode]
 [29Nov2024 20:32:41.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [josean34: Set own game mode to Survival Mode]
 [29Nov2024 20:32:48.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [josean34: Set own game mode to Creative Mode]
+[29Nov2024 20:35:21.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josean34 lost connection: Disconnected
+[29Nov2024 20:35:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josean34 left the game
